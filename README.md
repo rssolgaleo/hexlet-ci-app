@@ -1,4 +1,6 @@
-# Example app for CI Hexlet course
+[![hexlet-ci-app](https://github.com/rssolgaleo/hexlet-ci-app/actions/workflows/hexlet-ci-app.yml/badge.svg)](https://github.com/rssolgaleo/hexlet-ci-app/actions/workflows/hexlet-ci-app.yml)
+
+#Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
